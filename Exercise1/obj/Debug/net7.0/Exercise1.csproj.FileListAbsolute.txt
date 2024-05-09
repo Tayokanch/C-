@@ -1,0 +1,15 @@
+/Users/admin/Desktop/C#/Exercise1/bin/Debug/net7.0/Exercise1
+/Users/admin/Desktop/C#/Exercise1/bin/Debug/net7.0/Exercise1.deps.json
+/Users/admin/Desktop/C#/Exercise1/bin/Debug/net7.0/Exercise1.runtimeconfig.json
+/Users/admin/Desktop/C#/Exercise1/bin/Debug/net7.0/Exercise1.dll
+/Users/admin/Desktop/C#/Exercise1/bin/Debug/net7.0/Exercise1.pdb
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.csproj.AssemblyReference.cache
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.AssemblyInfo.cs
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.dll
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/refint/Exercise1.dll
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.pdb
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/Exercise1.genruntimeconfig.cache
+/Users/admin/Desktop/C#/Exercise1/obj/Debug/net7.0/ref/Exercise1.dll
