@@ -1,0 +1,15 @@
+/Users/admin/Desktop/C#/C#_Methods/bin/Debug/net7.0/C#_Methods
+/Users/admin/Desktop/C#/C#_Methods/bin/Debug/net7.0/C#_Methods.deps.json
+/Users/admin/Desktop/C#/C#_Methods/bin/Debug/net7.0/C#_Methods.runtimeconfig.json
+/Users/admin/Desktop/C#/C#_Methods/bin/Debug/net7.0/C#_Methods.dll
+/Users/admin/Desktop/C#/C#_Methods/bin/Debug/net7.0/C#_Methods.pdb
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.csproj.AssemblyReference.cache
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.AssemblyInfo.cs
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.dll
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/refint/C#_Methods.dll
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.pdb
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/C#_Methods.genruntimeconfig.cache
+/Users/admin/Desktop/C#/C#_Methods/obj/Debug/net7.0/ref/C#_Methods.dll
