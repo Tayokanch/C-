@@ -5,7 +5,6 @@
 //  Student Grading application that automates the calculation of grades for each student in a class. 
 //  The parameters for your application are:
 
-string yourName = Console.ReadLine().ToLower();
 int numberOfTest = 5;
 string[] studentNames = new string[] { "Sophia", "Nicolas", "Zahirah", "Jeong" };
 int[] SophiaScores = new int[] { 73, 7, 87, 8, 43, 4, 49, 5, 80, 8 };
@@ -13,95 +12,101 @@ int[] NicolasScores = new int[] { 80, 8, 67, 6, 91, 9, 46, 4, 52, 5 };
 int[] ZahirahScores = new int[] { 52, 5, 85, 8, 69, 6, 80, 8, 72, 7 };
 int[] JeongScores = new int[] { 59, 5, 65, 6, 46, 4, 100, 10, 58, 5 };
 
-int totalScore = 0;
-List<int> studentScores = new List<int>();
+int[] studentScores = new int[10];
 string grade = "";
 
 
-for (int i = 0; i < studentNames.Length; i++)
+foreach (string student in studentNames)
+
 {
-    if (yourName == studentNames[i].ToLower()) 
+    int totalScore = 0;
+
+    if (student.ToLower() == "sophia")
     {
-        switch (yourName)
-        {
-            case "sophia":
-                studentScores.AddRange(SophiaScores);
-                break;
-            case "nicolas":
-                studentScores.AddRange(NicolasScores);
-                break;
-            case "zahirah":
-                studentScores.AddRange(ZahirahScores);
-                break;
-            case "jeong":
-                studentScores.AddRange(JeongScores);
-                break;
-        }
+        studentScores = SophiaScores;
     }
+    else if (student.ToLower() == "nicolas")
+    {
+        studentScores = NicolasScores;
+    }
+    else if (student.ToLower() == "zahirah")
+    {
+        studentScores = ZahirahScores;
+    }
+    else if (student.ToLower() == "jeong")
+    {
+        studentScores = JeongScores;
+    }
+
+    foreach (int score in studentScores)
+    {
+        totalScore += score;
+    }
+
+    decimal averageScore = (decimal)totalScore / numberOfTest;
+
+    if (averageScore >= 97)
+    {
+        grade = "A+";
+    }
+    else if (averageScore >= 93)
+    {
+        grade = "A";
+    }
+    else if (averageScore >= 90)
+    {
+        grade = "A-";
+    }
+    else if (averageScore >= 87)
+    {
+        grade = "B+";
+    }
+    else if (averageScore >= 83)
+    {
+        grade = "B";
+    }
+    else if (averageScore >= 80)
+    {
+        grade = "B-";
+    }
+    else if (averageScore >= 77)
+    {
+        grade = "C+";
+    }
+    else if (averageScore >= 73)
+    {
+        grade = "C";
+    }
+    else if (averageScore >= 70)
+    {
+        grade = "C-";
+    }
+    else if (averageScore >= 67)
+    {
+        grade = "D+";
+    }
+    else if (averageScore >= 63)
+    {
+        grade = "D";
+    }
+    else if (averageScore >= 60)
+    {
+        grade = "D-";
+    }
+    else
+    {
+        grade = "F";
+    }
+
+    // Print the results
+    Console.WriteLine($"{student}\t {averageScore}\t {grade}\t");
+
 }
 
-for (int j = 0; j < studentScores.Count; j++)
-{
-    totalScore += studentScores[j];
-}
 
-int averageScore = totalScore / numberOfTest;
 
-if (averageScore >= 97)
-{
-    grade = "A+";
-}
-else if (averageScore >= 93)
-{
-    grade = "A";
-}
-else if (averageScore >= 90)
-{
-    grade = "A-";
-}
-else if (averageScore >= 87)
-{
-    grade = "B+";
-}
-else if (averageScore >= 83)
-{
-    grade = "B";
-}
-else if (averageScore >= 80)
-{
-    grade = "B-";
-}
-else if (averageScore >= 77)
-{
-    grade = "C+";
-}
-else if (averageScore >= 73)
-{
-    grade = "C";
-}
-else if (averageScore >= 70)
-{
-    grade = "C-";
-}
-else if (averageScore >= 67)
-{
-    grade = "D+";
-}
-else if (averageScore >= 63)
-{
-    grade = "D";
-}
-else if (averageScore >= 60)
-{
-    grade = "D-";
-}
-else
-{
-    grade = "F";
-}
 
-// Print the results
-Console.WriteLine($"{yourName}\t {averageScore}\t {grade}");
+
 
 /*
 ///Exercise 2
