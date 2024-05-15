@@ -1,0 +1,15 @@
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.csproj.AssemblyReference.cache
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.AssemblyInfo.cs
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator
+/Users/admin/Desktop/C#/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.deps.json
+/Users/admin/Desktop/C#/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.runtimeconfig.json
+/Users/admin/Desktop/C#/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.dll
+/Users/admin/Desktop/C#/ConditionalOperator/bin/Debug/net7.0/ConditionalOperator.pdb
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.dll
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/refint/ConditionalOperator.dll
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.pdb
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ConditionalOperator.genruntimeconfig.cache
+/Users/admin/Desktop/C#/ConditionalOperator/obj/Debug/net7.0/ref/ConditionalOperator.dll

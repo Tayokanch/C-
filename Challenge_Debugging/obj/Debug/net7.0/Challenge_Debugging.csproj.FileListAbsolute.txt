@@ -1,0 +1,5 @@
+/Users/admin/Desktop/C#/Challenge_Debugging/obj/Debug/net7.0/Challenge_Debugging.csproj.AssemblyReference.cache
+/Users/admin/Desktop/C#/Challenge_Debugging/obj/Debug/net7.0/Challenge_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/C#/Challenge_Debugging/obj/Debug/net7.0/Challenge_Debugging.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/Challenge_Debugging/obj/Debug/net7.0/Challenge_Debugging.AssemblyInfo.cs
+/Users/admin/Desktop/C#/Challenge_Debugging/obj/Debug/net7.0/Challenge_Debugging.csproj.CoreCompileInputs.cache

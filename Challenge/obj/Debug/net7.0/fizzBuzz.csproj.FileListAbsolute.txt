@@ -1,0 +1,15 @@
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.csproj.AssemblyReference.cache
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.AssemblyInfo.cs
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/fizzBuzz/bin/Debug/net7.0/fizzBuzz
+/Users/admin/Desktop/C#/fizzBuzz/bin/Debug/net7.0/fizzBuzz.deps.json
+/Users/admin/Desktop/C#/fizzBuzz/bin/Debug/net7.0/fizzBuzz.runtimeconfig.json
+/Users/admin/Desktop/C#/fizzBuzz/bin/Debug/net7.0/fizzBuzz.dll
+/Users/admin/Desktop/C#/fizzBuzz/bin/Debug/net7.0/fizzBuzz.pdb
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.dll
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/refint/fizzBuzz.dll
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.pdb
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/fizzBuzz.genruntimeconfig.cache
+/Users/admin/Desktop/C#/fizzBuzz/obj/Debug/net7.0/ref/fizzBuzz.dll

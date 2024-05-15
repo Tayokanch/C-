@@ -104,8 +104,18 @@ foreach (string student in studentNames)
 }
 
 
+int[,] registerDailyStartingCash = new int[,] { { 1, 50 }, { 5, 20 }, { 10, 10 }, { 20, 5 } };
+int total = 0;
+for (int i = 0; i < registerDailyStartingCash.GetLength(0); i++)
+{
+    for (int j = 0; j < registerDailyStartingCash.GetLength(1); j++)
+    {
+        total += registerDailyStartingCash[i, j] * registerDailyStartingCash[i, j];
 
 
+    }
+}
+Console.WriteLine("Total is : " + total);
 
 
 /*
