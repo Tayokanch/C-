@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Desktop/C#/Exercise1/Exercise1.csproj",
-      "projectName": "Exercise1",
-      "projectPath": "/Users/admin/Desktop/C#/Exercise1/Exercise1.csproj",
+      "projectUniqueName": "/Users/admin/Desktop/C#/Function/Function.csproj",
+      "projectName": "Function",
+      "projectPath": "/Users/admin/Desktop/C#/Function/Function.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Desktop/C#/Exercise1/obj/",
+      "outputPath": "/Users/admin/Desktop/C#/Function/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"
